@@ -1,7 +1,7 @@
-package edu.handong.csee.lab13.prob5;
+package edu.handong.csee.java.lab13.prob5;
 import java.util.Scanner;
 
-public class Equals {
+public class Equals { // method name
 	public static boolean equals(int[][] m1, int[][] m2 ){
 		int count = 0;
 		if (m1.length != m2.length)
