@@ -10,7 +10,7 @@ public class Main { //class name
 		book.show(); // method of book
 		science.show(); //method of science
 		history1.show(); // method of history
-		
+
 	}
 
 }

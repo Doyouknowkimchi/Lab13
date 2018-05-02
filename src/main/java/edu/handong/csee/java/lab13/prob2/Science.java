@@ -15,5 +15,5 @@ public class Science extends Book { // class name , it inherit Book
 	{
 		System.out.println("<<<Science>>>" + this.toString()); // show Science
 	}
-	
+
 }
